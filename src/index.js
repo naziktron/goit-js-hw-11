@@ -1,3 +1,2 @@
-import './sass/main.scss';
-
-console.log('Hello World');
+import './css/styles.css';
+import './js/main';
